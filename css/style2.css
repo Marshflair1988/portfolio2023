@@ -211,7 +211,7 @@ main section.banner {
     -webkit-box-align:center;
     -ms-flex-align:center;
     align-items:center;
-    background-image:url("../images/header.jpg");
+    background-image:url("../images/screens.jpg");
     background-position:top right;
     background-size:cover;
 }
@@ -450,7 +450,7 @@ main .contact .container form .form-grid .form-element,main .contact .container 
 }
                     
 main .contact .container form .form-grid .form-element::-webkit-input-placeholder,main .contact .container form .form-grid .form-area::-webkit-input-placeholder {
-    color:#AAA
+    color:#AAA;
 }
                     
 main .contact .container form .form-grid .form-element:-ms-input-placeholder,main .contact .container form .form-grid .form-area:-ms-input-placeholder {
